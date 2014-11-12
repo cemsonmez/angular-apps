@@ -1,0 +1,73 @@
+[
+{
+"name": "Barcelona",
+"country": "Spain",
+"teamUrl": "http://tr.wikipedia.org/wiki/FC_Barcelona",
+"flagUrl": "http://cd1.dibujos.net/dibujos/pintados/201237/escudo-del-f.c.-barcelona-deportes-escudos-de-futbol-pintado-por-martinb-9769813.jpg",
+"fanCount": "36619000"
+}
+,
+{
+"name": "Real Madrid",
+"country": "Spain",
+"teamUrl": "http://tr.wikipedia.org/wiki/Real_Madrid_CF",
+"flagUrl": "https://lh5.googleusercontent.com/-niVNRycNy0E/AAAAAAAAAAI/AAAAAAAAABo/ShwRvc2WT_I/photo.jpg",
+"fanCount": "32858000"
+}
+,
+{
+"name": "Manchester United",
+"country": "England",
+"teamUrl": "http://tr.wikipedia.org/wiki/Manchester_United_FC",
+"flagUrl": "https://pbs.twimg.com/profile_images/431568655512383488/xjwn1J6J.jpeg",
+"fanCount": "28533000"
+}
+,
+{
+"name": "Chelsea",
+"country": "England",
+"teamUrl": "http://tr.wikipedia.org/wiki/Chelsea_FC",
+"flagUrl": "https://lh4.googleusercontent.com/-KgFYn-rp2GU/AAAAAAAAAAI/AAAAAAAAABA/tKKilEFpcCg/photo.jpg",
+"fanCount": "13762000"
+}
+,
+{
+"name": "A.C. Milan",
+"country": "Italy",
+"teamUrl": "http://tr.wikipedia.org/wiki/AC_Milan",
+"flagUrl": "http://seeklogo.com/images/A/AC_MILAN-logo-87399104D2-seeklogo.com.gif",
+"fanCount": "12206000"
+}
+,
+{
+"name": "Arsenal",
+"country": "England",
+"teamUrl": "http://tr.wikipedia.org/wiki/Arsenal_FC",
+"flagUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/323px-Arsenal_FC.svg.png",
+"fanCount": "11778000"
+}
+,
+{
+"name": "Liverpool",
+"country": "England",
+"teamUrl": "http://tr.wikipedia.org/wiki/Liverpool_FC",
+"flagUrl": "http://sportzwiki.com/uploads/featuredImg/liverpool-logo.png",
+"fanCount": "10529000"
+}
+,
+{
+"name": "Fenerbahçe",
+"country": "Turkey",
+"teamUrl": "http://tr.wikipedia.org/wiki/Fenerbah%C3%A7e_Profesyonel_Futbol_Tak%C4%B1m%C4%B1",
+"flagUrl": "http://upload.wikimedia.org/wikipedia/en/3/39/Fenerbah%C3%A7e.svg",
+"fanCount": "7581000"
+}
+,
+{
+"name": "Galatasaray",
+"country": "Turkey",
+"teamUrl": "http://tr.wikipedia.org/wiki/Galatasaray_Profesyonel_Futbol_Tak%C4%B1m%C4%B1",
+"flagUrl": "https://pbs.twimg.com/profile_images/475958802739523585/Vnx7Icyv.jpeg",
+"fanCount": "7581000"
+}
+]

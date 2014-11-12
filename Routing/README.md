@@ -1,0 +1,1 @@
+This small application is an example of routing in Angular.

@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html ng-app="module1">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>View2</title>
+</head>
+<body>
+	<div ng-controller="myController">
+		<form ng-submit="test()">
+			<h3>Controller 1 test</h3>
+			isim : <input type="text" ng-model="name" required="">
+			<p />
+			<button>Gönder</button>
+		</form>
+	</div>
+	<div ng-controller="myController2">
+		<h3>Controller 2 test</h3>
+		<form ng-submit="test()">
+			isim : <input type="text" ng-model="name" required="">
+			<p />
+			<button>Gönder</button>
+		</form>
+	</div>
+</body>
+</html>

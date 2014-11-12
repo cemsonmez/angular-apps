@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html ng-app>
+
+  <head>
+    <meta charset="utf-8" />
+    <title>Angular directives test sayfası</title>
+    <script>document.write('<base href="' + document.location + '" />');</script>
+    <link href="style.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js" data-require="angular.js@1.0.x" data-semver="1.0.8"></script>
+    <script src="app.js"></script>
+  </head>
+
+  <body>
+    <div ng-init="persons=[{firstname: 'Richard',lastname: 'Stallman'},{firstname: 'Linus',lastname: 'Torvalds'}]">
+        <h4>Kişi listesi</h4>
+        <ul>
+            <li ng-repeat="person in persons">
+                {{person.firstname}} {{person.lastname}}
+                <input type="checkbox" ng-model="selected" />
+		        <button ng-disabled="!selected">Seçili</button>
+            </li>
+        </ul>    
+    </div>
+  </body>
+
+</html>
