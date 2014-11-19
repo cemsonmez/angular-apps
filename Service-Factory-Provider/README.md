@@ -1,0 +1,1 @@
+This small application illustrates the usage of Service, Factory and Provider in Angular.
