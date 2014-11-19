@@ -9,3 +9,4 @@ Following subjects are covered in these applications:
 3. Controllers
 4. Routing
 5. Filters
+6. Service, Factory and Provider
